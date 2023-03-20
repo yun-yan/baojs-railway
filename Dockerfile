@@ -13,4 +13,4 @@ RUN bun install
 EXPOSE 8080
 
 # Run the Bao.js webserver
-CMD bun run src/script.ts
+CMD bun run src/script.js
